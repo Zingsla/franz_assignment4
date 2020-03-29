@@ -1,0 +1,3 @@
+this is a test file to see how many times words occur
+THIS WILL CHECK CAPITALIZATION
+Is is iS TEST TEsT TesT tesT TEST

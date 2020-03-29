@@ -1,0 +1,15 @@
+a: 1 occurence
+test: 6 occurences
+will: 1 occurence
+occur: 1 occurence
+words: 1 occurence
+this: 2 occurences
+is: 4 occurences
+check: 1 occurence
+many: 1 occurence
+how: 1 occurence
+see: 1 occurence
+times: 1 occurence
+file: 1 occurence
+capitalization: 1 occurence
+to: 1 occurence
